@@ -59,7 +59,7 @@ const Dashboard: React.FC = () => {
                 <h2 className="text-2xl font-bold text-white mb-2">{category.title}</h2>
                 <p className="text-gray-300 mb-4">{category.description}</p>
                 <div className="flex items-center text-teal-400 group-hover:text-teal-300 transition-colors">
-                  <span className="font-medium">Explore</span>
+                  <span className="font-medium"><a href="https://mithrachatbot.netlify.app">Explore</a></span>
                   <ArrowRight className="ml-2 w-5 h-5 transition-transform group-hover:translate-x-2" />
                 </div>
               </div>
