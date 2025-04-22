@@ -22,7 +22,7 @@ const categories: CategoryCard[] = [
     title: 'Mental Wellness',
     description: 'Access our AI-powered mental health assistant and guided meditation sessions',
     icon: <Brain className="w-8 h-8" />,
-    link: '/mental-wellness',
+    link: 'https://mithrachatbot.netlify.app/',
     image: 'https://images.pexels.com/photos/3759658/pexels-photo-3759658.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
   }
 ];
